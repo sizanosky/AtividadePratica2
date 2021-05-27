@@ -6,7 +6,8 @@ recebe os digitos através de um scanf_s os armazena em um vetor de 7 posições
 usa for loop para percorrer os indices do vetor e somar todos os valores, imprime na tela 
 o RU informado e a sua soma.
 
-PRÁTICA 02
+PRÁTICA 02:
+
 Escreva um algoritmo em linguagem C que atenda os seguintes requisitos:
 ✓ Crie um vetor com a quantidade de dígitos do seu RU.
 ✓ Solicite que usuário digite o seu RU, cada digito digitado deve ser armazenado em uma 
